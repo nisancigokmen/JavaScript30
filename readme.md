@@ -75,4 +75,4 @@ These are meant to be 1:1 copies of what is done in the video. If you found a be
 
 The starter files + solutions will be updated if/when the videos are updated.
 
-Thanks!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2318f9ee&size=22&lines=Thanks+for+visiting)](https://git.io/typing-svg)
